@@ -1,3 +1,5 @@
 # This file is created by Ye Ding
-# Does the below work?
-theme: Al-Folio
+# Does the al-Folio work? not on ther list
+#theme: Al-Folio
+# add them instruction: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme
+theme: minima
