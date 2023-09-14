@@ -24,7 +24,7 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 
 ### References
 
-1.	 Ding, Y; Lawrence, CE (2003). "A statistical sampling algorithm for RNA secondary structure prediction". _Nucleic Acids Res._ 15, 31 (24): 7280–301. doi:10.1093/nar/gkg938. PMC 297010. PMID 14654704.
+1.	 Ding, Y; Lawrence, CE (2003). "A statistical sampling algorithm for RNA secondary structure prediction". *Nucleic Acids Res.* 15, 31 (24): 7280–301. doi:10.1093/nar/gkg938. PMC 297010. PMID 14654704.
 2.	 Ding, Y; Chan, CY; Lawrence, CE (2005). "RNA secondary structure prediction by centroids in a Boltzmann weighted ensemble". RNA. 11 (8): 1157–66. doi:10.1261/rna.2500605. PMC 1370799. PMID 16043502.
 3.	 Ding, Y; Lawrence, CE (2001). "Statistical prediction of single-stranded regions in RNA secondary structure and application to predicting effective antisense target sites and beyond". Nucleic Acids Res. 1, 29 (5): 1035–46. doi:10.1093/nar/29.5.1034. PMC 29728. PMID 11222752. 
 4.	Elbashir, SM; Harborth, J; Lendeckel, W; Yalcin, A; Weber, K; Tuschl, T (2001). “Duplexes of 21-nucleotide RNAs mediate RNA interference in cultured mammalian cells”. Nature 411(6836):494-8. doi: 10.1038/35078107.
