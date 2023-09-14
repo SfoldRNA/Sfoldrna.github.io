@@ -1,4 +1,4 @@
-# The Sfold RNA software
+# Sfold RNA software
 
 **Sfold** is a software program developed to predict probable RNA secondary structures through structure ensemble sampling and centroid predictions [1,2], with a focus on assessment of  RNA target accessibility [3], for the key applications to the rational design of siRNAs [4]  for the suppression of gene expressions, and for the identification of targets for regulatory RNAs particularly microRNAs [5,6].  
 
