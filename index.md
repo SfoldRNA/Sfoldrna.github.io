@@ -56,7 +56,7 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 24. "TOOLS: Nucleic Acid Origami". Science. 300 (5621): 873. 2003. doi:10.1126/science.300.5621.873d. S2CID 220109027.
 
 
-25. Cell Biology: prediction on target. Nature, 446, 587, 2007, Research Highlights <https://www.nature.com/articles/446586a#Cell-Biology>
+25. Cell Biology: Predictions on target. Nature, 446, 587, 2007, Research Highlights <https://www.nature.com/articles/446586a#Cell-Biology>
 
 26. Surefire siRNAs, Genome Technology (now Genomeweb), July 1, 2003, Meredith W Salisbury
 <https://www.genomeweb.com/archive/surefire-sirnas#.Y0gvFC-B28c>
