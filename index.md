@@ -18,9 +18,9 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 
 ### External links
 
-•	Sfold GitHub repository
+•	**[Sfold GitHub repository](https://github.com/Ding-RNA-Lab/Sfold)**
 
-•	Sfold commercial licensing
+•	[Sfold commercial licensing](https://www.healthresearch.org/sfold-software-for-sirna/)
 
 ### References
 
