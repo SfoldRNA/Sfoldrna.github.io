@@ -24,11 +24,11 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 
 ### References
 
-1.	 Ding, Y; Lawrence, CE (2003). "A statistical sampling algorithm for RNA secondary structure prediction". *Nucleic Acids Res.* **15**, 31 (24): 7280–301. doi:10.1093/nar/gkg938. PMC 297010. PMID 14654704.
+1.	 Ding, Y; Lawrence, CE (2003). "A statistical sampling algorithm for RNA secondary structure prediction". *Nucleic Acids Res.* **31** (24): 7280–301. doi:10.1093/nar/gkg938. PMC 297010. PMID 14654704.
 2.	 Ding, Y; Chan, CY; Lawrence, CE (2005). "RNA secondary structure prediction by centroids in a Boltzmann weighted ensemble". *RNA*. **11** (8): 1157–66. doi:10.1261/rna.2500605. PMC 1370799. PMID 16043502.
 3.	 Ding, Y; Lawrence, CE (2001). "Statistical prediction of single-stranded regions in RNA secondary structure and application to predicting effective antisense target sites and beyond". *Nucleic Acids Res*. **29** (5): 1035–46. doi:10.1093/nar/29.5.1034. PMC 29728. PMID 11222752. 
-4.	Elbashir, SM; Harborth, J; Lendeckel, W; Yalcin, A; Weber, K; Tuschl, T (2001). “Duplexes of 21-nucleotide RNAs mediate RNA interference in cultured mammalian cells”. *Nature* **411**(6836):494-8. doi: 10.1038/35078107.
-5.	Lee, RC; Feinbaum, RL; Ambros, V (1993). “The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14”. *Cell*. **75**(5):843-54. doi: 10.1016/0092-8674(93)90529-y.
+4.	Elbashir, SM; Harborth, J; Lendeckel, W; Yalcin, A; Weber, K; Tuschl, T (2001). “Duplexes of 21-nucleotide RNAs mediate RNA interference in cultured mammalian cells”. *Nature* **411** (6836):494-8. doi: 10.1038/35078107.
+5.	Lee, RC; Feinbaum, RL; Ambros, V (1993). “The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14”. *Cell*. **75** (5):843-54. doi: 10.1016/0092-8674(93)90529-y.
 6.	 Long, D; Lee, R; William, P; Chan, CY; Ambros, V; Ding, Y (2007). "Potent effect of target secondary structure on microRNA function". *Nat Struct Mol Biol*. **14** (4): 287–94. doi:10.1038/nsmb1226. PMID 17401373. S2CID 650349.
 7.	Mathews, D (2006). "Revolutions in RNA secondary structure prediction". *J. Mol. Biol.* **359** (3): 526–532. doi:10.1016/j.jmb.2006.01.067. PMID 16500677.
 8.	 Zucker, M. (2000). "Calculating nucleic acid secondary structure". *Curr. Opin. Struct. Biol.* **10** (3): 303–310. doi:10.1016/s0959-440x(00)00088-9. PMID 10851192.
@@ -41,7 +41,7 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 15.	 Carvalho, L. E.; Lawrence, C. E. (2008). "Centroid estimation in discrete high- dimensional spaces with applications in biology". *Proc Natl Acad Sci.* **105** (9): 3209–14. Bibcode:2008PNAS..105.3209C. doi:10.1073/pnas.0712329105. PMC 2265131. PMID 18305160.
 16.	 Newberg, L. A.; Thompson, W. A.; Colan, S; Smith, T. M.; McCue, L. A.; Lawrence, C. E. (2007). "Centroid estimation in discrete high- dimensional spaces with applications in biology". *Bioinformatics*. **23** (14): 1718–27. doi:10.1093/bioinformatics/btm241. PMC 2268014. PMID 17488758.
 
-17. Bellaousov, S; Reuter, JS; Seetin, MG; Mathews, DH (2013).” RNAstructure: web servers for RNA secondary structure prediction and analysis”. *Nucleic Acids Res.* **41** (Web Server issue): W471–W474. 
+17. Bellaousov, S; Reuter, JS; Seetin, MG; Mathews, DH (2013). ”RNAstructure: web servers for RNA secondary structure prediction and analysis”. *Nucleic Acids Res.* **41** (Web Server issue): W471–W474. 
 
 18. Gruber, AR; Lorenz, R; Bernhart, SH; Neuböck, R; Hofacker, IL (2008). “The Vienna RNA Websuite”. *Nucleic Acids Res.* **36** (Web Server issue): W70–W74.
 
@@ -56,9 +56,9 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 24. "TOOLS: Nucleic Acid Origami". *Science*, **300** (5621): 873. 2003. doi:10.1126/science.300.5621.873d. S2CID 220109027.
 
 
-25. Cell Biology: Predictions on target. *Nature*, **446**, 587, 2007, Research Highlights <https://www.nature.com/articles/446586a#Cell-Biology>
+25. "Cell Biology: Predictions on target". *Nature*, **446**, 587, 2007, Research Highlights <https://www.nature.com/articles/446586a#Cell-Biology>
 
-26. Surefire siRNAs, *Genome Technology* (now Genomeweb), July 1, 2003, Meredith W Salisbury
+26. 'Surefire siRNAs". *Genome Technology* (now Genomeweb), July 1, 2003, Meredith W Salisbury
 <https://www.genomeweb.com/archive/surefire-sirnas#.Y0gvFC-B28c>
 
-27. The Sfold Project: Computational tools for regulatory RNA studies. International Innovation. Bristol, UK: *Research Media Ltd*. February 2010. pp. 22-25.
+27. "The Sfold Project: Computational tools for regulatory RNA studies". International Innovation. Bristol, UK: *Research Media Ltd*. February 2010. pp. 22-25.
