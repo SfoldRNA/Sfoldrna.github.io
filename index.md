@@ -58,7 +58,7 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 
 25. "Cell Biology: Predictions on target". *Nature*, **446**, 587, 2007, Research Highlights <https://www.nature.com/articles/446586a#Cell-Biology>
 
-26. 'Surefire siRNAs". *Genome Technology* (now Genomeweb), July 1, 2003, Meredith W Salisbury
+26. "Surefire siRNAs". *Genome Technology* (now Genomeweb), July 1, 2003, Meredith W Salisbury
 <https://www.genomeweb.com/archive/surefire-sirnas#.Y0gvFC-B28c>
 
 27. "The Sfold Project: Computational tools for regulatory RNA studies". International Innovation. Bristol, UK: *Research Media Ltd*. February 2010. pp. 22-25.
