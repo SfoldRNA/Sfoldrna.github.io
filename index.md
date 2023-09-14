@@ -52,13 +52,13 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 
 22. Roden, C.A., Gaillard, J., Kanoria, S., Rennie, W., Barish, S., Cheng, J., Pan, W., Liu, J., Cotsapas, C., Ding, Y., Lu, J. (2017) Novel determinants of mammalian primary microRNA processing revealed by systematic evaluation of hairpin-containing transcripts and human genetic variation. Genome Res. 27 (1) doi: 10.1101/gr.208900.116. PMID: 28087842; PMCID: PMC5340965.
 
-23.  https://academic.oup.com/nar/article/31/24/7280/2904423
+23.  <https://academic.oup.com/nar/article/31/24/7280/2904423>
 24. "TOOLS: Nucleic Acid Origami". Science. 300 (5621): 873. 2003. doi:10.1126/science.300.5621.873d. S2CID 220109027.
 
 
-25. Cell Biology: prediction on target. Nature, 446, 587, 2007, Research Highlights(https://www.nature.com/articles/446586a#Cell-Biology)
+25. Cell Biology: prediction on target. Nature, 446, 587, 2007, Research Highlights <https://www.nature.com/articles/446586a#Cell-Biology>
 
 26. Surefire siRNAs, Genome Technology (now Genomeweb), July 1, 2003, Meredith W Salisbury
-(https://www.genomeweb.com/archive/surefire-sirnas#.Y0gvFC-B28c)
+<https://www.genomeweb.com/archive/surefire-sirnas#.Y0gvFC-B28c>
 
 27. The Sfold Project: Computational tools for regulatory RNA studies". International Innovation. Bristol, UK: Research Media Ltd. February 2010. pp. 22-25.
