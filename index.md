@@ -19,6 +19,7 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 ### External links
 
 •	Sfold GitHub repository
+
 •	Sfold commercial licensing
 
 ### References
