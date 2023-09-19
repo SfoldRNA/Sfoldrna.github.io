@@ -7,7 +7,7 @@ The core RNA secondary structure prediction algorithm is based on rigorous stati
 
 Sfold-based bioinformatics tools for biological applications were developed from successful collaboration with [Kathleen McDonough](https://www.wadsworth.org/senior-staff/kathleen-mcdonough) on antisense oligos [20], [Erasmus Schneider](https://www.linkedin.com/in/erasmus-schneider-32865b5) on hammerhead ribozymes [21], [Victor Ambros](https://en.wikipedia.org/wiki/Victor_Ambros) on microRNA targeting [6], and Jun Lu on primary microRNA processing [22]. 
 
-Development of bioinformatics tools and the Sfold software was funded by the National Science Foundation (grant 0650991, 0200970) and the National Institutes of Health (grant R01 GM116855, R01 GM068726, R01 GM 099811, R01 GM 138856).
+Development of bioinformatics tools and the Sfold software was funded by the [National Science Foundation (NSF)](https://www.nsf.gov) (grant 0650991, 0200970) and the [National Institutes of Health (NIH)](https://www.nih.gov) (grant R01 GM116855, R01 GM068726, R01 GM 099811, R01 GM 138856).
 
 ### Media coverage
 
