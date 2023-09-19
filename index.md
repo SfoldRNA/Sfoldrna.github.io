@@ -28,7 +28,7 @@ Sfold runs on Linux, and is freely available to the scientific community for non
   </tr>
   <tr> 
     <td>Software developers</td>
-    <td>Clarence Chan, Adam Wolenc, William A. Rennie and Charles S. Carmack</td>
+    <td>Clarence Chan, Adam Wolenc, William A. Rennie and Charles S. Carmack          </td>
   </tr>
   <tr> 
     <td>Initial release date</td>
