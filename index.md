@@ -24,6 +24,17 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 |Software developers| Clarence Chan, Adam Wolenc, William A. Rennie and Charles S. Carmack|  
 |Initial release date|  April 1, 2003|
 
+<table>
+  <tr> 
+    <td>Original authors</td>
+    <td>Ye Ding and [Charles E. Lawrence](https://en.wikipedia.org/wiki/Charles_Lawrence_(mathematician))</td>
+  </tr>
+  <tr> 
+    <td>Application model developers</td>
+    <td>Dang Long and Chaochun Liu</td>
+  </tr>
+</table>
+
 ### External links
 
 •	**[Sfold GitHub repository](https://github.com/Ding-RNA-Lab/Sfold)**
