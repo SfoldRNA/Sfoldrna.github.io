@@ -22,7 +22,7 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 |Original authors|Ye Ding and [Charles E. Lawrence](https://en.wikipedia.org/wiki/Charles_Lawrence_(mathematician))|  
 |Application model developers|Dang Long and Chaochun Liu|  
 |Software developers| Clarence Chan, Adam Wolenc, William A. Rennie and Charles S. Carmack|  
-|Initial release date|  April 1, 2003|
+|Initial release date|April 1, 2003|
 
 <table>
   <tr> 
@@ -32,6 +32,14 @@ Sfold runs on Linux, and is freely available to the scientific community for non
   <tr> 
     <td>Application model developers</td>
     <td>Dang Long and Chaochun Liu</td>
+  </tr>
+  <tr> 
+    <td>Software developers</td>
+    <td>Clarence Chan, Adam Wolenc, William A. Rennie and Charles S. Carmack</td>
+  </tr>
+  <tr> 
+    <td>Initial release date</td>
+    <td>April 1, 2003</td>
   </tr>
 </table>
 
