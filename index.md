@@ -20,7 +20,7 @@ Sfold runs on Linux, and is freely available to the scientific community for non
 <table>
   <tr> 
     <td>Original authors</td>
-    <td>Ye Ding and <a href="https://en.wikipedia.org/wiki/Charles_Lawrence_(mathematician)">Charles E. Lawrence</a> </td>
+    <td> <a href="https://www.albany.edu/sph/faculty/ye-ding">Ye Ding</a> and <a href="https://en.wikipedia.org/wiki/Charles_Lawrence_(mathematician)">Charles E. Lawrence</a> </td>
   </tr>
   <tr> 
     <td>Application model developers</td>
