@@ -5,4 +5,5 @@
 # theme: minima
 # adding Al-Folio as remote theme works
 remote_theme: Al-Folio
-Title:
+name: Sfold RNA page
+title: null
