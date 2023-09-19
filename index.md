@@ -2,18 +2,19 @@
 
 Sfold is a software program developed to predict probable [RNA](https://en.wikipedia.org/wiki/RNA) [secondary structures](https://en.wikipedia.org/wiki/Nucleic_acid_secondary_structure) through structure ensemble sampling and centroid predictions [1,2], with a focus on assessment of  RNA target accessibility [3], for the key applications to the rational design of siRNAs [4]  for the suppression of gene expressions, and for the identification of targets for regulatory RNAs particularly [microRNAs](https://en.wikipedia.org/wiki/MicroRNA) [5,6].  
 
-**Development**  
+**Development** 
+
 The core RNA secondary structure prediction algorithm is based on rigorous statistical (stochastic) sampling of Boltzmann ensemble of RNA secondary structures, enabling statistical characterization of any local structural features of potential interest to experimental investigators. The sampling approach is the focus of a review [7], and its potential was discussed in an earlier review [8]. Predictions by Sfold have lead to new biological insights [9-11]. The ideas of ensemble sampling and centroids have been adopted by others not only for RNA problems, but also for other fundamental problems in computational biology and genomics [12-16]. The implementation stochastic sampling has been included in two widely used RNA software, RNA structure [17] and the Vienna RNA package [18], which are also based on the Turner RNA thermodynamic parameters [19].
 
 Sfold-based bioinformatics tools for biological applications were developed from successful collaboration with [Kathleen McDonough](https://www.wadsworth.org/senior-staff/kathleen-mcdonough) on antisense oligos [20], [Erasmus Schneider](https://www.linkedin.com/in/erasmus-schneider-32865b5) on hammerhead ribozymes [21], [Victor Ambros](https://en.wikipedia.org/wiki/Victor_Ambros) on microRNA targeting [6], and [Jun Lu](https://medicine.yale.edu/profile/jun-lu/) on primary microRNA processing [22]. 
 
 Development of bioinformatics tools and the Sfold software was funded by the [National Science Foundation (NSF)](https://www.nsf.gov) (grant 0650991, 0200970) and the [National Institutes of Health (NIH)](https://www.nih.gov) (grant R01 GM116855, R01 GM068726, R01 GM 099811, R01 GM 138856).
 
-### Media coverage
+**Media coverage**
 
 Sfold and biological application work have been featured on a *Nucleic Acids Research* cover [23], highlighted in *Science* NetWatch [24] and *Nature* Research Highlights [25], and were reported in a feature article by *Genome Technology* (now *GenomeWeb*) [26] and a four-page keynote interview by *Research Media* [27].
 
-### Distribution
+**Distribution**
 
 Sfold runs on Linux, and is freely available to the scientific community for non-commercial applications, and is available under license for commercial applications. Both the source code and the executables are available at GitHub. 
 
@@ -36,13 +37,13 @@ Sfold runs on Linux, and is freely available to the scientific community for non
   </tr>
 </table>
 
-### External links
+**External links**
 
 •	**[Sfold GitHub repository](https://github.com/Ding-RNA-Lab/Sfold)**
 
 •	**[Sfold commercial licensing](https://www.healthresearch.org/sfold-software-for-sirna/)**
 
-### References
+**References**
 
 1.	 Ding, Y; Lawrence, CE (2003). "A statistical sampling algorithm for RNA secondary structure prediction". *Nucleic Acids Res.* **31** (24): 7280–301. doi:10.1093/nar/gkg938. PMC 297010. PMID 14654704.
 2.	 Ding, Y; Chan, CY; Lawrence, CE (2005). "RNA secondary structure prediction by centroids in a Boltzmann weighted ensemble". *RNA*. **11** (8): 1157–66. doi:10.1261/rna.2500605. PMC 1370799. PMID 16043502.
