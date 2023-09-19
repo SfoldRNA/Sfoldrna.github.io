@@ -6,5 +6,5 @@
 # adding Al-Folio as remote theme works
 #remote_theme: Al-Folio
 remote_theme: pages-themes/minimal
-title: NULL
+title: " "
 description: 
