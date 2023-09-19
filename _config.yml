@@ -5,6 +5,6 @@
 # theme: minima
 # adding Al-Folio as remote theme works
 #remote_theme: Al-Folio
-theme: Minimal 
+remote_theme: minimal 
 title: NULL
 description: Sfold page
