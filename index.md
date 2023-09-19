@@ -16,15 +16,7 @@ Sfold and biological application work have been featured on a *Nucleic Acids Res
 ### Distribution
 
 Sfold runs on Linux, and is freely available to the scientific community for non-commercial applications, and is available under license for commercial applications. Both the source code and the executables are available at GitHub. 
-[//]:# Table below does not show up right in brower
-|  |  |
-|:---|:---|
-|Original authors|Ye Ding and [Charles E. Lawrence](https://en.wikipedia.org/wiki/Charles_Lawrence_(mathematician))|  
-|Application model developers|Dang Long and Chaochun Liu|  
-|Software developers| Clarence Chan, Adam Wolenc, William A. Rennie and Charles S. Carmack|  
-|Initial release date|April 1, 2003|
 
-[//]:# HTML table
 <table>
   <tr> 
     <td>Original authors</td>
