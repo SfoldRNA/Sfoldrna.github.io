@@ -1,4 +1,4 @@
-<img src="Sfold_logo_banner.png" alt="Sfold Logo" width="1200" height="60">
+<img src="Sfold_logo_banner.png" alt="Sfold Logo" width="1200" height="80">
 
 Sfold is a software program developed to predict probable [RNA](https://en.wikipedia.org/wiki/RNA) [secondary structures](https://en.wikipedia.org/wiki/Nucleic_acid_secondary_structure) through structure ensemble sampling and centroid predictions [1,2], with a focus on assessment of  RNA target accessibility [3], for the key applications to the rational design of siRNAs [4]  for the suppression of gene expressions, and for the identification of targets for regulatory RNAs particularly [microRNAs](https://en.wikipedia.org/wiki/MicroRNA) [5,6].  
 
