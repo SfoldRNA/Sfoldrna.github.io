@@ -6,6 +6,6 @@
 # adding Al-Folio as remote theme works
 # remote_theme: https://github.com/alshedivat/al-folio
 #remote_theme: pages-themes/minimal
-remote_theme: https://github.com/jekyll/minima
+#remote_theme: https://github.com/jekyll/minima
 title: " "
 description: 
