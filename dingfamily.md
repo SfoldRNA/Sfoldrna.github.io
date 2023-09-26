@@ -2,7 +2,7 @@
 
 <html>
 <body>
-<h1> <b> Home sweet home </b> </h1> (October 1995 - present)
+<h1> <b> Home sweet home </b> </h1>
 
 
 <img src="House_19Runnel.jpg" alt="Ding home page" width="1200" height="300">
