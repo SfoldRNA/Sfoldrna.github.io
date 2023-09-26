@@ -15,7 +15,7 @@
    <a href="https://statistics.berkeley.edu"> University of California, Berkeley  </a> </p>
 <p> Michael is an undergraduate student at <a href="https://www.rochester.edu "> University of Rochester </a> </p>
 
-<table cellspacing="0" cellpadding="0">
+<table border="0">
   <tr>
     <td class="first">first row</td>
   </tr>
