@@ -17,10 +17,9 @@
 
 <table>
   <tr>
-    <td <img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">/td>
-  </tr>
-  <tr>
-    <td <img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">/td>
+    <img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">
+  
+    <img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">
   </tr>
 </table>
   
