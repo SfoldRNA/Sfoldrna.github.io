@@ -17,9 +17,9 @@
 
 <table>
   <tr>
-    <img src="Ye_bike2.jpg" alt="Ding home page" width="200" height="150">
-    <img src="Ye_bike.jpg" alt="Ding home page" width="200" height="150">
-    <img src="Ye_bike_belt.jpg" alt="Ding home page" width="200" height="150">
+    <img src="Ye_bike2.jpg" alt="Ding home page" width="240" height="160">
+    <img src="Ye_bike.jpg" alt="Ding home page" width="240" height="160">
+    <img src="Ye_bike_belt.jpg" alt="Ding home page" width="240" height="160">
     
   </tr>
 </table>
@@ -42,8 +42,6 @@
     </div>
   </body>
    
-<h2> <b> Hobies </b> </h2>
-<img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">
 
 <h2> <b> When we were young :-) </b> </h2>
 
