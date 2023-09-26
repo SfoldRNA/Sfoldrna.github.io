@@ -24,15 +24,14 @@
   </tr>
 </table>
 
-<style>
-.container {
-  display: flex;
-  align-items: center; 
- padding-left: 10px;
-}
-img{
-  margin-left: 15px ;
-  margin-right: 15px;
+
+
+  <style>
+  .container {
+  display: grid;
+  grid-template-columns:20% 20% 20%;
+  align-items: center;
+
 }
   </style>
 <body>
