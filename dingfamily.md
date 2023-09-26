@@ -32,6 +32,14 @@
     </div>
   </body>
   
+.container {
+  align-items: center; 
+  float: left;
+}
+.image{
+    float: left;
+  padding: 5px;
+}  
 <h2> <b> Hobies </b> </h2>
 <img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">
 
