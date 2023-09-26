@@ -14,9 +14,18 @@
 <p> <a href="https://tiffanyding.github.io"> Tiffany  </a> is pursuing a Ph.D in Statistic at 
    <a href="https://statistics.berkeley.edu"> University of California, Berkeley  </a> </p>
 <p> Michael is an undergraduate student at <a href="https://www.rochester.edu "> University of Rochester </a> </p>
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="first">first row</td>
+  </tr>
+  <tr>
+    <td class="second">second row</td>
+  </tr>
+</table>
   
 <h2> <b> Hobies </b> </h2>
-<img src="Ye_bike2.jpg" alt="Ding home page" width="500" height="300">
+<img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">
 
 <h2> <b> When we were young :-) </b> </h2>
 
