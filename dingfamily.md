@@ -16,11 +16,14 @@
 <p> Michael is an undergraduate student at <a href="https://www.rochester.edu "> University of Rochester </a> </p>
 
   <style>
-  .container {
-  display: grid;
-  grid-template-columns:20% 20% 20%;
-  align-items: center;
-
+.container {
+  display: flex;
+  align-items: center; 
+ padding-left: 10px;
+}
+img{
+  margin-left: 15px ;
+  margin-right: 15px;
 }
   </style>
 <body>
