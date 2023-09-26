@@ -2,7 +2,7 @@
 
 <html>
 <body>
-<h1> <b> Home sweet home </b> </h1>
+<h2> <b> Home sweet home </b> </h2>
 
 
 <img src="House_19Runnel.jpg" alt="Ding home page" width="1200" height="300">
