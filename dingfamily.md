@@ -15,17 +15,6 @@
    <a href="https://statistics.berkeley.edu"> University of California, Berkeley  </a> </p>
 <p> Michael is an undergraduate student at <a href="https://www.rochester.edu "> University of Rochester </a> </p>
 
-<table>
-  <tr>
-   <div <img src="Ye_bike2.jpg" alt="Ding home page" width="240" height="160"> </div> 
-   </div>  <img src="Ye_bike.jpg" alt="Ding home page" width="240" height="160"></div> 
-   </div>  <img src="Ye_bike_belt.jpg" alt="Ding home page" width="240" height="160"> </div> 
-    
-  </tr>
-</table>
-
-
-
   <style>
   .container {
   display: grid;
