@@ -23,6 +23,14 @@
     
   </tr>
 </table>
+
+<body>
+    <div class="container">
+      <div class="image"> <img src="Ye_bike2.jpg" alt="This is my image." height="850px"/> </div> 
+      <div class="image"> <img src="Ye_bike.jpg" alt="This is my second image." height="850px"/> </div> 
+     <div class="image"> <img src="Ye_bike_belt.jpg" alt="My third image." height="850px"/> </div> 
+    </div>
+  </body>
   
 <h2> <b> Hobies </b> </h2>
 <img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">
