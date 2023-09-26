@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html>
 <body>
 <h1> <b> Our home sweet home </b> </h1>
