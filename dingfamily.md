@@ -24,6 +24,17 @@
   </tr>
 </table>
 
+<style>
+.container {
+  display: flex;
+  align-items: center; 
+ padding-left: 10px;
+}
+img{
+  margin-left: 15px ;
+  margin-right: 15px;
+}
+  </style>
 <body>
     <div class="container">
       <div class="image"> <img src="Ye_bike2.jpg" alt="This is my image." height="850px"/> </div> 
@@ -31,15 +42,7 @@
      <div class="image"> <img src="Ye_bike_belt.jpg" alt="My third image." height="850px"/> </div> 
     </div>
   </body>
-  
-.container {
-  align-items: center; 
-  float: left;
-}
-.image{
-    float: left;
-  padding: 5px;
-}  
+   
 <h2> <b> Hobies </b> </h2>
 <img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">
 
