@@ -17,9 +17,9 @@
 
 <table>
   <tr>
-    <img src="Ye_bike2.jpg" alt="Ding home page" width="240" height="160">
-    <img src="Ye_bike.jpg" alt="Ding home page" width="240" height="160">
-    <img src="Ye_bike_belt.jpg" alt="Ding home page" width="240" height="160">
+   <div <img src="Ye_bike2.jpg" alt="Ding home page" width="240" height="160"> </div> 
+   </div>  <img src="Ye_bike.jpg" alt="Ding home page" width="240" height="160"></div> 
+   </div>  <img src="Ye_bike_belt.jpg" alt="Ding home page" width="240" height="160"> </div> 
     
   </tr>
 </table>
