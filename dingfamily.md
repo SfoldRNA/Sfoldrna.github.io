@@ -15,12 +15,12 @@
    <a href="https://statistics.berkeley.edu"> University of California, Berkeley  </a> </p>
 <p> Michael is an undergraduate student at <a href="https://www.rochester.edu "> University of Rochester </a> </p>
 
-<table border="0">
+<table>
   <tr>
-    <td class="first">first row</td>
+    <td <img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">/td>
   </tr>
   <tr>
-    <td class="second">second row</td>
+    <td <img src="Ye_bike2.jpg" alt="Ding home page" width="400" height="300">/td>
   </tr>
 </table>
   
