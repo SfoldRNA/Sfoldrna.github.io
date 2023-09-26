@@ -18,5 +18,8 @@
   
 <h2> <b> Hobies </b> </h2>
 <img src="Ye_bike2.jpg" alt="Ding home page" width="500" height="300">
+
+<h2> <b> When we were younger </b> </h2>
+
 </body>
 </html>
