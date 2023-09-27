@@ -1,7 +1,7 @@
 
 <html>
  
-<link rel="stylesheet", href="dingfamily.css" />
+# <link rel="stylesheet", href="dingfamily.css" />
  
 <body>
 <h2> <b> Home sweet home </b> </h2>
@@ -16,6 +16,11 @@
    <a href="https://statistics.berkeley.edu"> University of California, Berkeley  </a> </p>
 <p> Michael is an undergraduate student at <a href="https://www.rochester.edu "> University of Rochester </a> </p>
 
+<p float="left">
+  <img src="/Ye_bike2.jpg" width="100" />
+  <img src="/Ye_bike.jpg" width="100" /> 
+  <img src="/Ye_bike_belt.jpg" width="100" />
+</p>
  
     <div class="container">
       <div class="image"> <img src="Ye_bike2.jpg" alt="This is my image" height="850px"/> </div> 
