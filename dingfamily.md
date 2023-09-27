@@ -34,7 +34,7 @@
   <img src="/quebec_le_lei.jpg" width="250" />
   <img src="/quebec_lele1.jpg" width="250" /> 
   <img src="/quebec_lele2.jpg" width="250" />
-  <img src="/tif_halfway.jpg" width="110" />
+  <img src="/tif_halfway.jpg" width="120" />
 </p> 
 <p float="left">
   <img src="/Lei_Albany.jpg" width="250" />
