@@ -26,7 +26,7 @@
 </p> 
 <p float="left">
   <img src="/Ye_bike_gearbox.jpg" width="320" />
-  <img src="/Ye_hdisc.jpg" width="320" /> 
+  <img src="/Ye_bike_hdisc.jpg" width="320" /> 
   <img src="/Ye_bike_8speed.jpg" width="320" />
 </p> 
 
