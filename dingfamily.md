@@ -9,8 +9,6 @@
 
 <img src="House_19Runnel.jpg" alt="Ding home page" width="1200" height="300">
 
-
-
 <h2> <b> Work </b> </h2>
 <p> <a href="https://www.albany.edu/sph/faculty/ye-ding" > Ye </a>  works on <a href="https://sfoldrna.github.io"> RNA Bioinformatics </a></p>
 <p> Lei is an Auditing manage at <a href="https://www.nystrs.org"> NYSTRS </a></p> 
@@ -18,24 +16,13 @@
    <a href="https://statistics.berkeley.edu"> University of California, Berkeley  </a> </p>
 <p> Michael is an undergraduate student at <a href="https://www.rochester.edu "> University of Rochester </a> </p>
 
-  <style>
-.container {
-  display: flex;
-  align-items: center; 
- padding-left: 10px;
-}
-img{
-  margin-left: 15px ;
-  margin-right: 15px;
-}
-  </style>
-<body>
+ 
     <div class="container">
-      <div class="image"> <img src="Ye_bike2.jpg" alt="This is my image." height="850px"/> </div> 
-      <div class="image"> <img src="Ye_bike.jpg" alt="This is my second image." height="850px"/> </div> 
-     <div class="image"> <img src="Ye_bike_belt.jpg" alt="My third image." height="850px"/> </div> 
+      <div class="image"> <img src="Ye_bike2.jpg" alt="This is my image" height="850px"/> </div> 
+      <div class="image"> <img src="Ye_bike.jpg" alt="This is my second image" height="850px"/> </div> 
+     <div class="image"> <img src="Ye_bike_belt.jpg" alt="My third imag." height="850px"/> </div> 
     </div>
-  </body>
+  
    
 
 <h2> <b> When we were young :-) </b> </h2>
