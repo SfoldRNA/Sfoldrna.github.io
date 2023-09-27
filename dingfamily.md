@@ -16,10 +16,11 @@
    <a href="https://statistics.berkeley.edu"> University of California, Berkeley  </a> </p>
 <p> Michael is an undergraduate student at <a href="https://www.rochester.edu "> University of Rochester </a> </p>
 
+<h2> <b> Hobbies </b> </h2>
 <p float="left">
-  <img src="/Ye_bike2.jpg" width="300" />
-  <img src="/Ye_bike.jpg" width="300" /> 
-  <img src="/Ye_bike_belt.jpg" width="300" />
+  <img src="/Ye_bike2.jpg" width="320" />
+  <img src="/Ye_bike.jpg" width="320" /> 
+  <img src="/Ye_bike_belt.jpg" width="320" />
 </p> 
 
 <h2> <b> When we were young </b> </h2>
