@@ -29,7 +29,19 @@
   <img src="/Ye_bike_hdisc.jpg" width="320" /> 
   <img src="/Ye_bike_8speed.jpg" width="320" />
 </p> 
-
+<h2> <b> A biking family </b> </h2>
+<p float="left">
+  <img src="/quebec_le_lei.jpg" width="250" />
+  <img src="/quebec_lele1.jpg" width="250" /> 
+  <img src="/quebec_lele2.jpg" width="250" />
+  <img src="/tif_halfway.jpg" width="250" />
+</p> 
+<p float="left">
+  <img src="/Lei_Albany.jpg" width="250" />
+  <img src="/lele_lock8.jpg" width="250" /> 
+  <img src="/MDX_1bike.jpg" width="250" />
+  <img src="/MDX_2bikes.jpg" width="250" />
+</p> 
 
 <h2> <b> When we were young </b> </h2>
 
