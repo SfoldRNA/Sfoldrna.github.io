@@ -17,20 +17,12 @@
 <p> Michael is an undergraduate student at <a href="https://www.rochester.edu "> University of Rochester </a> </p>
 
 <p float="left">
-  <img src="/Ye_bike2.jpg" width="100" />
-  <img src="/Ye_bike.jpg" width="100" /> 
-  <img src="/Ye_bike_belt.jpg" width="100" />
-</p>
- 
-    <div class="container">
-      <div class="image"> <img src="Ye_bike2.jpg" alt="This is my image" height="850px"/> </div> 
-      <div class="image"> <img src="Ye_bike.jpg" alt="This is my second image" height="850px"/> </div> 
-     <div class="image"> <img src="Ye_bike_belt.jpg" alt="My third imag." height="850px"/> </div> 
-    </div>
-  
-   
+  <img src="/Ye_bike2.jpg" width="300" />
+  <img src="/Ye_bike.jpg" width="300" /> 
+  <img src="/Ye_bike_belt.jpg" width="300" />
+</p> 
 
-<h2> <b> When we were young :-) </b> </h2>
+<h2> <b> When we were young </b> </h2>
 
 </body>
 </html>
