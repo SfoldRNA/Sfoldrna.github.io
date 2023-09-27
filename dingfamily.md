@@ -17,6 +17,8 @@
 <p> Michael is an undergraduate student at <a href="https://www.rochester.edu "> University of Rochester </a> </p>
 
 <h2> <b> Hobbies </b> </h2>
+<h2> <b> Priority bike   
+<a href="https://www.prioritybicycles.com/products/ltrain">Brilliant L train </a> (8-speed, carbon belt, hydraulic disc brake)   </b> </h2>
 <p float="left">
   <img src="/Ye_bike2.jpg" width="320" />
   <img src="/Ye_bike.jpg" width="320" /> 
