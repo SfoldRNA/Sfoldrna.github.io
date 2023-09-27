@@ -43,6 +43,19 @@
   <img src="/MDX_3bikes.jpg" width="250" />
 </p> 
 
+<h2> <b> 60 birthday! </b> </h2>
+<p float="left">
+  <img src="/60_Athos.jpg" width="250" />
+  <img src="/60_bing.jpg" width="250" /> 
+  <img src="/60_app.jpg" width="250" />
+  <img src="/60_cheese.jpg" width="130" />
+</p> 
+<p float="left">
+  <img src="/60_dish1.jpg" width="250" />
+  <img src="/60_dish2.jpg" width="250" /> 
+  <img src="/60_cake.jpg" width="250" />
+  <img src="/60_ye.jpg" width="250" />
+
 <h2> <b> When we were young </b> </h2>
 
 </body>
