@@ -34,13 +34,13 @@
   <img src="/quebec_le_lei.jpg" width="250" />
   <img src="/quebec_lele1.jpg" width="250" /> 
   <img src="/quebec_lele2.jpg" width="250" />
-  <img src="/tif_halfway.jpg" width="250" />
+  <img src="/tif_halfway.jpg" width="130" />
 </p> 
 <p float="left">
   <img src="/Lei_Albany.jpg" width="250" />
   <img src="/lele_lock8.jpg" width="250" /> 
   <img src="/MDX_1bike.jpg" width="250" />
-  <img src="/MDX_2bikes.jpg" width="250" />
+  <img src="/MDX_3bikes.jpg" width="250" />
 </p> 
 
 <h2> <b> When we were young </b> </h2>
