@@ -31,30 +31,30 @@
 </p> 
 <h2> <b> A biking family </b> </h2>
 <p float="left">
-  <img src="/quebec_le_lei.jpg" width="250" />
-  <img src="/quebec_lele1.jpg" width="250" /> 
-  <img src="/quebec_lele2.jpg" width="250" />
+  <img src="/quebec_le_lei.jpg" width="230" />
+  <img src="/quebec_lele1.jpg" width="230" /> 
+  <img src="/quebec_lele2.jpg" width="230" />
   <img src="/tif_halfway.jpg" width="120" />
 </p> 
 <p float="left">
-  <img src="/Lei_Albany.jpg" width="250" />
-  <img src="/lele_lock8.jpg" width="250" /> 
-  <img src="/MDX_1bike.jpg" width="250" />
-  <img src="/MDX_3bikes.jpg" width="250" />
+  <img src="/Lei_Albany.jpg" width="230" />
+  <img src="/lele_lock8.jpg" width="230" /> 
+  <img src="/MDX_1bike.jpg" width="230" />
+  <img src="/MDX_3bikes.jpg" width="230" />
 </p> 
 
 <h2> <b> 60 birthday! </b> </h2>
 <p float="left">
-  <img src="/60_Athos.jpg" width="250" />
-  <img src="/60_bing.jpg" width="250" /> 
-  <img src="/60_app.jpg" width="250" />
-  <img src="/60_cheese.jpg" width="250" />
+  <img src="/60_Athos.jpg" width="230" />
+  <img src="/60_bing.jpg" width="230" /> 
+  <img src="/60_app.jpg" width="230" />
+  <img src="/60_cheese.jpg" width="230" />
 </p> 
 <p float="left">
-  <img src="/60_dish1.jpg" width="250" />
-  <img src="/60_dish2.jpg" width="250" /> 
-  <img src="/60_cake.jpg" width="250" />
-  <img src="/60_ye.jpg" width="250" />
+  <img src="/60_dish1.jpg" width="230" />
+  <img src="/60_dish2.jpg" width="230" /> 
+  <img src="/60_cake.jpg" width="230" />
+  <img src="/60_ye.jpg" width="230" />
 
 <h2> <b> When we were young </b> </h2>
 
