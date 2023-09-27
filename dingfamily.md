@@ -48,7 +48,7 @@
   <img src="/60_Athos.jpg" width="250" />
   <img src="/60_bing.jpg" width="250" /> 
   <img src="/60_app.jpg" width="250" />
-  <img src="/60_cheese.jpg" width="130" />
+  <img src="/60_cheese.jpg" width="250" />
 </p> 
 <p float="left">
   <img src="/60_dish1.jpg" width="250" />
