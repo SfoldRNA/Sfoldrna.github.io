@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- comment out -->
+
+
+<!-- For Navbar, see
+https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp 
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_dropdown_navbar
+-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet", href="Navbar_Dingfamily.css" />
+
+
+<style>
+
+#grad {height: 70px;padding-top:20px; padding-bottom:20px;
+  background-image: linear-gradient(to right, aliceblue, aquamarine, deepskyblue, darkblue, blueviolet);}
+
+<!-- must be in order below , for hovering over linked element to work -->
+
+
+
+</style>
+
+
+</head>
+
+<body>
+<div id="grad" style="text-align:center; margin:auto;color:navy; font-family: Chalkboard SE;font-size:40px;font-weight:bold">
+Ding family 
+ 
+</div>
+
+<div class="container">
+  <div class="navbar">
+      <a href="Dingfamily.html">Home</a>
+
+      <a href="Work.html">Work</a>
+
+ 
+    <div class="dropdown">
+      <button class="dropbtn">American&nbsp;dream 
+      </button>
+
+      <div class="dropdown-content">
+      <a href="VA.html">Virginia</a>
+      <a href="NY.html">New York</a>
+      </div>
+    </div> 
+
+    <div class="dropdown">
+      <button class="dropbtn">Hobbies 
+      </button>
+
+      <div class="dropdown-content">
+      <a href="Biking.html">Biking</a>
+      <a href="Fishing.html">Fishing</a>
+      </div>
+    </div> 
+
+    <div class="dropdown">
+      <button class="dropbtn">Events 
+      </button>
+
+      <div class="dropdown-content">
+      <a href="Birthdays.html">Birthdays</a>
+      <a href="Graduations.html">Graduations</a>
+      </div>
+    </div> 
+
+    <div class="dropdown">
+      <button class="dropbtn">Other 
+      </button>
+
+      <div class="dropdown-content">
+      <a href="Pictures.html">Pictures</a>
+      <a href="Travel.html">Travel</a>
+      </div>
+    </div>  
+ 
+
+<!-- put date and time in the right corner of Navbar, using same styles specified by
+.date -->
+  <div class="date">
+     <span id="datetime"></span>
+
+  </div>
+
+  </div>
+</div>
+
+<!-- Java script for date time, note it is outside div loop -->
+
+<script>
+      // create a function to update the date and time
+      function updateDateTime() {
+        // create a new `Date` object
+        const now = new Date();
+
+        // get the current date and time as a string
+        
+        const currentDateTime = now.toDateString();
+
+        // update the `textContent` property of the `span` element with the `id` of `datetime`
+        document.querySelector('#datetime').textContent = currentDateTime;
+      }
+
+      // call the `updateDateTime` function every second
+      setInterval(updateDateTime, 1000);
+</script>
+
+<style>
+.position_text {
+  position: relative;
+   width: 90%;
+  left: 10%;
+}
+
+img.position_image1 {
+  position: relative;
+  width: 25%;
+  left: 10%; 
+}
+
+
+img.position_image2 {
+  position: relative;
+  width: 25%;
+  left: 15%;
+}
+
+img.position_image3 {
+  position:  relative;
+  width: 25%;
+  left: 20%;
+}
+
+</style>
+
+
+
+<div class="position_text" style= "font-family: Arial;font-size:18px">
+
+    <br> </br> 
+    <h3> <b> 43196 Greeley Square, Ashburn, VA 20148 </b> </h3>
+    <br> </br> 
+
+</div>
+
+
+  <img class="position_image1" src="Feb6_A.jpg" />
+  <img class="position_image2" src="Feb6_B.jpg" />
+  <img class="position_image3" src="Feb6_C.jpg" />
+
+  <br> </br> 
+
+  <img class="position_image1" src="March11_A.jpg" />
+  <img class="position_image2" src="March11_B.jpg" />
+  <img class="position_image3" src="March11_C.jpg" />
+
+
+
+</body>
+
+</html>
